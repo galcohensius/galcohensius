@@ -9,6 +9,6 @@ I'm **Gal Cohensius**, a developer with a passion for strategy, board games, and
 - 💬 Ask me about creating bots that play games or strategies for board and card games.
 
 ### 📫 How to Reach Me
-- LinkedIn: [linkedin.com/in/galcohensius](https://www.linkedin.com/in/galcohensius/)  
+- LinkedIn: [linkedin.com/in/galcohensius](https://www.linkedin.com/in/gal-cohensius-168332102/)  
 
 Let’s connect and collaborate! Whether it’s about game design, building bots, forecasting player behavior, or software development, I’m always up for a creative challenge. 🙌
